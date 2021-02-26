@@ -18,7 +18,10 @@ along with seven demographic variables. The following is a description of our da
 2. auto_dataset：https://drive.google.com/file/d/1EJfUrO9umOl8D-bN-Y3FReHlgwc8e7w9/view?usp=sharing
 
 
-# And than open colab and import packages list below:
+# Open colab:
+https://colab.research.google.com/drive/1N4Qjaik8m8yrZYxANFZfhl1yY1unavbI?usp=sharing
+
+# Import packages list below:
 
 ```bash
 #Import packages
